@@ -1,15 +1,14 @@
-abstract class Race {
-  constructor(
-    readonly name: string,
-    readonly dexterity: number,
-  ) { }
-
-  static createdRacesInstances(instances: number): number {
-    console.log('🚀', instances);
-    throw Error('Not implemented');
-  }
-
-  abstract get maxLifePoints(): number;
-}
+import Race from './Race';
+import Dwarf from './Dwarf';
+import Elf from './Elf';
+import Halfling from './Halfling';
+import Orc from './Orc';
 
 export default Race;
+
+export {
+  Dwarf,
+  Elf,
+  Halfling,
+  Orc,
+};
