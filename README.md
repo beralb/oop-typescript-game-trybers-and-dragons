@@ -30,7 +30,7 @@ I deepened my knowledge in topics such as:
 </a> 
 </p>
 
-<h3>:gear: Instruções</h3>
+<h3>:gear: Instructions</h3>
 
 ------------
 
