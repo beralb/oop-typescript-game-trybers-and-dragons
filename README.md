@@ -1,12 +1,11 @@
 <h1 align="center">OOP TypeScript Project - Game Trybers And Dragons</h1>
-<h3 align="center">This was a project developed in the back-end module of Web Development Course of <a href=https://www.betrybe.com>Trybe</a></h3>
-<br>
+
 
 🔭 In this project, I applied the #SOLID architecture principles and the #OOP (Object Oriented Programming) principles in a #RPG (Role Playing Game) game framework.
 
 </br>
 
-I deepened my knowledge in topics such as:
+Highligthed topics are:
 
 - Inheritance, Abstraction, Encapsulation and Polymorphism;
 
